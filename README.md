@@ -1,2 +1,2 @@
 # first_project
-Hello
+Hello! This is my first project
